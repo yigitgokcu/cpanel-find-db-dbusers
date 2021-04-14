@@ -1,4 +1,4 @@
-#### A small bash script to find Top 10 database users by MySQL queries in last 1m. I use this script on cPanel servers and with Zabbix as trigger. 
+#### A small bash script to find top database users by MySQL queries in last 1m. I use this script on cPanel servers and with Zabbix as trigger. 
 
  * Create a directory for store txt files and script itself. For example, ```path/to/db_abusers/``` 
  * Make sure that your script has the appropriate executable permission ```chmod +x path/to/db_abusers/script.sh```
