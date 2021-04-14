@@ -11,4 +11,4 @@ You can use this script standalone if you want. I use with [db_abusers-post.sh](
 
  * Dont forget to copy the Webhook URL and Channel name from the Mattermost App created into the WEBHOOK_URL and CHANNEL portions of the [db_abuserspost.sh](https://github.com/yigitgokcu/cpanel-db_abusers/blob/main/db_abusers-post.sh)
 
-This script can be useful when it comes to check accounts specifically. For example, some http requests (bots or other malicious requests...) can make unnecessary loads, esspecially accounts with unoptimized queries.
+This script can be useful when it comes to check accounts specifically. For example, some http requests (bots or other malicious requests...) can make unnecessary loads. Especially on accounts with unoptimized queries.
