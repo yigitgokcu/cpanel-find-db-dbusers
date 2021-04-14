@@ -55,6 +55,6 @@ done
 # Delete .txt files older than 1 day
 # ---------------------------------------------------\
 
-find /path/to/zabbix/scripts/db_abusers/ -name "*.txt" -type f -mtime +1 -exec rm -f {} \;
+find /path/to/db_abusers/ -name "*.txt" -type f -mtime +1 -exec rm -f {} \;
 
 exit
